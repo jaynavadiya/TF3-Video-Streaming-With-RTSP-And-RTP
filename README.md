@@ -35,4 +35,13 @@ RTP - Real Time Transfer Protocol
 ## User Manual
 <img width="441" alt="image" src="https://user-images.githubusercontent.com/67496808/194923278-df811f9a-6cc7-4938-96e0-e9604720f798.png">
 
+## Remotely connecting 2 MACs
+Please have a look at the screenshots in the repository.
+Client: Macbook Pro 16
+Server: Macbook Air M2
 
+## tkinter Error Box
+The screenshot of it is shown under the screenshots folder.
+The network binding error occurs when the client is not able to establish the connection.
+As the wifi of the laptop was not turned on, it could not reach the server (macbook air m2) on the same network.
+That's why that tkninter error box appeared.
