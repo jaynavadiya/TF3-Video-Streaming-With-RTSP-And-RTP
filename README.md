@@ -31,3 +31,8 @@ RTP - Real Time Transfer Protocol
 4. VideoStream.py
 	- Used to read data from the file
 	- No modification: VideoStream.py
+	
+## User Manual
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/67496808/194923074-31e4d09e-0904-4764-859f-2a0504c6de6c.png">
+
+
