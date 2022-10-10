@@ -33,6 +33,6 @@ RTP - Real Time Transfer Protocol
 	- No modification: VideoStream.py
 	
 ## User Manual
-<img width="441" alt="image" src="https://user-images.githubusercontent.com/67496808/194923074-31e4d09e-0904-4764-859f-2a0504c6de6c.png">
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/67496808/194923278-df811f9a-6cc7-4938-96e0-e9604720f798.png">
 
 
